@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+8k8g.top
 # this assumes you have the socks.py (http://phiral.net/socks.py) 
 # and terminal.py (http://phiral.net/terminal.py) in the
 # same directory and that you have tor running locally 
@@ -130,7 +130,7 @@ def main(argv):
     target = ''
     threads = 256
     tor = False
-    port = 80
+    port = 8080
 
     for o, a in opts:
         if o in ("-h", "--help"):
